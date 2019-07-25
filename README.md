@@ -9,7 +9,9 @@
 
 Запустить систему на два часа. Для сдачи ДЗ приложить 
 [list jobs](list_jobs.txt) 
-[list files jobid=<id>](list_files_jobid.txt)
+
+[list files jobid](list_files_jobid.txt)
+
 и сами конфиги bacula-*
 [bacula-dir.conf](bacula-dir.conf)
 [bacula-sd.conf](bacula-sd.conf)
