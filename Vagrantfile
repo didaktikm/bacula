@@ -8,7 +8,7 @@ MACHINES = {
     :ip_addr => "172.20.10.50",
     :memory => "1024",
     :shell => "bacula.sh",
-    :ansible => "elk.yml"
+    :ansible => "bacula.yml"
   },
   :"web" => {
     :box_name => "centos/7",

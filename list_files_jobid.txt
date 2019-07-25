@@ -1,0 +1,25 @@
+*list files jobid=74
++----------+
+| Filename |
++----------+
+| /etc/    |
+| /etc/my.cnf |
+| /etc/btmp |
+| /etc/cron |
+| /etc/wtmp |
+| /etc/dmesg |
+| /etc/grubby_prune_debug |
+| /etc/lastlog |
+| /etc/maillog |
+| /etc/messages |
+| /etc/secure |
+| /etc/spooler |
+| /etc/tallylog |
+| /etc/yum.log |
+| /etc/audit.log |
++----------+
++-------+-----------+---------------------+------+-------+----------+----------+-----------+
+| JobId | Name      | StartTime           | Type | Level | JobFiles | JobBytes | JobStatus |
++-------+-----------+---------------------+------+-------+----------+----------+-----------+
+|    74 | BackupWeb | 2019-07-25 09:30:02 | B    | D     |       15 |   48,909 | T         |
++-------+-----------+---------------------+------+-------+----------+----------+-----------+
